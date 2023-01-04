@@ -1,4 +1,4 @@
-public class Coderbyte {
+public class CodelandUsernameValidation {
     public static void main(String[] args) {
         System.out.print(codelandUsernameValidation("123abc444"));
         System.out.print(smartCodelandUsernameValidation("123abc444"));
