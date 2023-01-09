@@ -8,6 +8,8 @@ public class ThreeTask {
 
     public static String stringChallenge(String str) {
 
+
+
         int count = 0;
         char letter;
         StringBuilder result = new StringBuilder();
